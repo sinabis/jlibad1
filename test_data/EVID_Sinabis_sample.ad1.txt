@@ -1,0 +1,28 @@
+﻿Created By AccessData® FTK® Imager 4.3.1.1 
+
+Case Information: 
+Acquired using: ADI4.3.1.1
+Case Number: 101
+Evidence Number: EVID_Sinabis_sample
+Unique Description: image AD1 
+Examiner: Sinabis Analytics GmbH
+Notes: this is a sample file
+
+--------------------------------------------------------------
+
+Information for E:\EVID_Sinabis_sample\EVID_Sinabis_sample.ad1:
+[Computed Hashes]
+ MD5 checksum:    62a88460f44e8f8020983917b29f93fd
+ SHA1 checksum:   0cef494b9412f78f271da05b63ae705301d3f9bc
+
+Image information:
+ Acquisition started:   Fri Feb 10 16:27:37 2023
+ Acquisition finished:  Fri Feb 10 16:27:43 2023
+ Segment list:
+  E:\EVID_Sinabis_sample\EVID_Sinabis_sample.ad1
+
+Image Verification Results:
+ Verification started:  Fri Feb 10 16:27:43 2023
+ Verification finished: Fri Feb 10 16:27:43 2023
+ MD5 checksum:    62a88460f44e8f8020983917b29f93fd : verified
+ SHA1 checksum:   0cef494b9412f78f271da05b63ae705301d3f9bc : verified
