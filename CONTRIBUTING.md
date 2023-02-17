@@ -2,7 +2,7 @@
 We appreciate any feedback on this project, whether it's:
 
 - Reporting a bug
-- Improving overall code quality[gradlew](gradlew)
+- Improving overall code quality
 - Submitting a fix
 - Proposing new features
 - Extend test cases
